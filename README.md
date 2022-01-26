@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- 
 This README describes the package. If you publish this package to pub.dev,
 this README's contents appear on the landing page for your package.
@@ -27,7 +26,7 @@ start using the package.
 ## Usage
 
 TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+to `/example` folder.
 
 ```dart
 const like = 'sample';
@@ -35,10 +34,6 @@ const like = 'sample';
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
+TODO: Tell users more about the package: where to find more information, how to
+contribute to the package, how to file issues, what response they can expect
 from the package authors, and more.
-=======
-# bunker_annotations
-A Swing Technologies Product.
->>>>>>> 4154154e703b1993d8d99d963d7c3eff86927e65
