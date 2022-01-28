@@ -1,6 +1,6 @@
 name: bunker_annotation
-description: A Annotation Library for lessen boilerplate code.
-version: 0.0.2
+description: An Annotation Sync Library for lessen boilerplate code.
+version: 0.0.3
 homepage: https://github.com/debojyoti452/bunker_annotations
 
 environment:
